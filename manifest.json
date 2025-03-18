@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Subito.it - Nascondi annunci venduti",
+  "version": "2.0",
+  "description": "Nasconde gli annunci venduti su Subito.it. iamglv.github.io",
+  "permissions": ["scripting", "storage"],
+  "host_permissions": ["https://www.subito.it/*"],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://www.subito.it/*"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+  "default_popup": "popup.html"
+},
+"icons": {
+  "16": "icon.png",
+  "32": "icon.png",
+  "48": "icon.png",
+  "128": "icon.png"
+}
+}
