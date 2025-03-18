@@ -10,3 +10,6 @@ Vi è mai capitato di fare una ricerca su Subito.it e scoprire che molto spesso 
 - Abilita la "Modalità sviluppatore".
 - Clicca su "Carica estensione non pacchettizzata" e seleziona la cartella dove hai estratto la repository.
 - L'estensione apparirà ora nella scheda delle estensioni, accessibile cliccando sull'icona del puzzle nel tuo browser.
+
+### Da aggiungere:
+- Rimuove annunci promozionali e/o non pertinenti
