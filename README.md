@@ -1,5 +1,5 @@
 # Trova_Subito.it
-Questa estensione migliora la poco personalizzabile ricerca di Subito.it <br/>## Come funziona
+Questa estensione migliora la poco personalizzabile ricerca di Subito.it <br>
 ![alt text](https://github.com/Gabbo144/Subito.it_nascondi_venduti/blob/main/dim.png "Logo Title Text 1") 
 <br/>
 ### Caratteristiche principali:
