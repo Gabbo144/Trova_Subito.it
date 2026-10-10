@@ -1,4 +1,5 @@
 # Trova_Subito.it
+# SUBITO HA CAMBIATO I SISTEMI DI RICERCA, L'ESTENSIONE ATTUALMENTE NON FUNZIONA. IN FUTURO FORSE LA AGGIORNERÒ.
 Questa estensione migliora la poco personalizzabile ricerca di Subito.it <br>
 ![alt text](https://github.com/Gabbo144/Subito.it_nascondi_venduti/blob/main/dim.png "Logo Title Text 1") 
 <br/>
